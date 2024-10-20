@@ -1,7 +1,6 @@
 import streamlit as st
 import json
 import os
-from simple_salesforce import Salesforce
 from streamlit_option_menu import option_menu
 
 # Importing module functions
